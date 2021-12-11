@@ -1,2 +1,3 @@
 # Sentiment-Analysis-using-FastText
-NLP
+
+Sentiment Analysis using FastText with Pre-trained Model
